@@ -1,4 +1,4 @@
 def square_array(array)
   array.each do |square|
-    return square *square
+    square *square
 end
